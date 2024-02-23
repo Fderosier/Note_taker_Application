@@ -12,6 +12,8 @@ Install the necessary npm packages for this app by running npm install in your t
 
 Usage
 
+/images/demo.gif
+
 Credits
 
 I consulted the Node.js documentation on file systems to guide me in implementing the DELETE request functionality for this project. Additionally, I drew inspiration from the UNH Bootcamp repository's Express activities "18_Stu_POST-Fetch" and "22_Stu_Modular-Routing" when structuring files and determining the coding framework for this project.
