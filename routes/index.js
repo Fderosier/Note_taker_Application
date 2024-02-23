@@ -1,9 +1,9 @@
 const router = require('express').Router();
 
-// import of modular route for /notes
+// /notes import for modular
 const notesRouter = require('./notes.js');
 
-// middleware function
+// function provided for middleware
 router.use('/notes', notesRouter);
 
 module.exports = router;
